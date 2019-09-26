@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chahyoibo.lider-prestig.ru/sitemap.xml
